@@ -7,7 +7,7 @@
 
 declare(strict_types=1);
 
-use day9\part1\Processor;
+use day9\part2\Processor;
 
 include __DIR__ . '/Processor.php';
 

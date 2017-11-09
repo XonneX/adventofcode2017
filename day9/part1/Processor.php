@@ -1,6 +1,8 @@
 <?php
 declare(strict_types=1);
 
+namespace day9\part1;
+
 /**
  * Created by PhpStorm
  * @author Janik Baumann <baumannjanik@gmail.com>
